@@ -1,0 +1,31 @@
+{
+  "name": "genstarter-dev-edition",
+  "version": "1.0.0",
+  "description": "Genesis Starter Child Theme - Developer's Edition.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:KnowTheCode/genstarter-dev-edition.git"
+  },
+  "author": "hellofromTonya",
+  "license": "GPL-2",
+  "bugs": {
+    "url": "https://github.com/KnowTheCode/genstarter-dev-edition/issues"
+  },
+  "homepage": "https://github.com/KnowTheCode/genstarter-dev-edition#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.6.1",    
+    "bourbon": "^4.2.6",
+    "bourbon-neat": "^1.7.2",
+    "css-mqpacker": "^5.0.1",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sass-lint": "^1.2.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "sass-rem": "^1.2.2"
+  }
+}
